@@ -18,5 +18,13 @@
             "Description": "Tata Nexon with all original documents",
             "Price": 800000
         }
+    ],
+    "Registered":[
+        {
+            "id":1,
+            "Email":"mohananna501@gmail.com",
+            "UserName":"mohananna501",
+            "Password":"mohan@111"
+        }
     ]
 }
