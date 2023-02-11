@@ -55,5 +55,14 @@
             "cost": 1299,
             "borrowed": false
           }
+      ],
+      "users":[
+          {
+              "id":1,
+              "user_name":"mohan",
+              "avatar":"https://images.pexels.com/photos/8471789/pexels-photo-8471789.jpeg?auto=compress&cs=tinysrgb&w=600",
+              "email":"mohananna501@gmail.com",
+              "password":"123"
+          }
       ]
 }
